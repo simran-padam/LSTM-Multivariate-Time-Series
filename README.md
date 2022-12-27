@@ -1,4 +1,4 @@
-# LSTM-Multivariate-Time-Series-
+# LSTM-Multivariate-Time-Series
 ## Demand Forecasting using LSTM 
 
 Objective:
